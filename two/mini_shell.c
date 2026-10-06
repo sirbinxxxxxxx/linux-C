@@ -7,6 +7,7 @@
 #include <unistd.h>
 #include <sys/stat.h>
 #include <fcntl.h>
+
 int main()
 {
     int last_result = 0;
